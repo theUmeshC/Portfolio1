@@ -1,0 +1,36 @@
+.zz{
+	position: absolute;
+	top: 10vh;
+	background-image: url(../images/bgg.jpg);
+	height: 90vh;
+	width: 100vw;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.zz a img{
+	margin-top: 18px;
+	height: 35px;
+	border-radius: 20px;	
+}
+.tt{
+	display: flex;
+	gap: 2em;
+}
+
+.jj{
+	position: absolute;
+	top: 50%;
+	left:40%;
+	transform: translate(-50%,-50%);
+	line-height: 20px;
+	
+}
+.jj h2{
+	margin: auto;
+}
+.jj h1{
+	font-size: 2.2em;
+
+}

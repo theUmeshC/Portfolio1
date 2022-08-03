@@ -1,0 +1,22 @@
+.aa{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background: rgb(45, 44, 44);
+	color: white;
+	position: sticky;
+	
+	width: 100vw;
+	height: 10vh;
+	z-index: 999;
+}
+
+.bb a{
+	color: white;
+	margin-right: 12px;
+	text-decoration: none;	
+}
+
+.bb a:hover{
+	color: aqua;
+}
