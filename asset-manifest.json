@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio1/static/css/main.a2a54f6b.css",
+    "main.js": "/Portfolio1/static/js/main.d4074ea5.js",
+    "static/media/bgg.jpg": "/Portfolio1/static/media/bgg.b5a4dd4c17b21dbf891c.jpg",
+    "static/media/page-2.jpg": "/Portfolio1/static/media/page-2.9385f05bcd0475033e99.jpg",
+    "static/media/profile.jpeg": "/Portfolio1/static/media/profile.faf19cc9a4fe7c729bde.jpeg",
+    "static/media/twi-logo.jpg": "/Portfolio1/static/media/twi-logo.36618f0a33a3f7ad70ea.jpg",
+    "index.html": "/Portfolio1/index.html",
+    "main.a2a54f6b.css.map": "/Portfolio1/static/css/main.a2a54f6b.css.map",
+    "main.d4074ea5.js.map": "/Portfolio1/static/js/main.d4074ea5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a54f6b.css",
+    "static/js/main.d4074ea5.js"
+  ]
+}
